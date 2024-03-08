@@ -1,5 +1,6 @@
 ### Hi there 👋
 ⚡ I'm Mohid, my friends call me Mody - I'm a passionate game developer, and a student of Software Engineering.
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
